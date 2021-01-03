@@ -1,5 +1,9 @@
 # clickfix
 Script for Logitech G Hub fixing double clicking
+	
+	arg/PressMouseButton()/ReleaseMouseButton()
+	1 = Left Click
+	2 = Right Click
 
 # Script
 	EnablePrimaryMouseButtonEvents(true)
