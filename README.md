@@ -19,3 +19,6 @@ Script for Logitech G Hub fixing double clicking
         ReleaseMouseButton(1)
   	end
 	end
+
+Disable problem key
+![alt text](https://github.com/solarkit22/clickfix/blob/main/Disable%20Problem%20Key.png)
